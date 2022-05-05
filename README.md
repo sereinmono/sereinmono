@@ -1,7 +1,7 @@
  # Keep It Simple, Stupid.
 
  - [🆒 Find me on CSDN.](https://blog.csdn.net/qq_38992829)
- - [🈂️ Find me on SegmentFault.](https://segmentfault/sereinmono)
+ - [🈂️ Find me on SegmentFault.](https://segmentfault.com/sereinmono)
  - [🗃️ Find me on Stack Overflow.](https://stackoverflow.com/users/16631999)
 
 
